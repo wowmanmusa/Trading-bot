@@ -1,0 +1,7 @@
+/* App specific styles */
+.App {
+  min-height: 100vh;
+  background-color: #111827;
+}
+
+/* Override any component-specific styles here */

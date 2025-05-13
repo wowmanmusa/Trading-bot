@@ -1,0 +1,8 @@
+# robots.txt for SmartFlow Pro
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://yourusername.github.io/smartflow-pro/sitemap.xml
